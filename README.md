@@ -4,11 +4,11 @@ You are helping a client who owns coffee shops in Colorado. The company's coffee
 ## 💪 Your challenge :
 Provide your client a list of neighborhoods in Denver where they should consider expanding. Include:
 
-A visualization of Denver's neighborhoods and the Starbucks store locations.
+- A visualization of Denver's neighborhoods and the Starbucks store locations.
 
-Find the neighborhoods with the highest proportion of people in the target demographic.
+- Find the neighborhoods with the highest proportion of people in the target demographic.
 
-Select the top three neighborhoods where your client should focus their search.
+- Select the top three neighborhoods where your client should focus their search.
 
 ## 💾 The data
 You have assembled information from three different sources ([locations](https://github.com/chrismeller/), [neighborhoods](http://data.denvergov.org), [demographics](https://www.census.gov/)):
@@ -42,4 +42,6 @@ _Census information from the [United States Census Bureau](https://www.census.go
 
 # Note ❗❗❗
 
-This project is my participation in Data camp Competition called : "Where to open a new coffee shop?"
+This project is my participation in Data camp Competition called : "Where to open a new coffee shop?".
+
+link: https://app.datacamp.com/learn/competitions/denver-coffee-shop
