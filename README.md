@@ -1,7 +1,7 @@
 # Where_to_open_a_new_coffee_shop_project ??
-## Background :
+##  📖 Background :
 You are helping a client who owns coffee shops in Colorado. The company's coffee shops serve high-quality and responsibly sourced coffee, pastries, and sandwiches. They operate three locations in Fort Collins and want to expand into Denver. Your client believes that the ideal location for a new store is close to affluent households, and the store appeals to the 20-35 year old demographic. Your team collected geographical and demographic information about Denver's neighborhoods to assist the search. They also collected data for Starbucks shops in Denver. Starbucks and the new coffee shops do not compete for the same clients; the team included their location as a reference.
-## Your challenge :
+## 💪 Your challenge :
 Provide your client a list of neighborhoods in Denver where they should consider expanding. Include:
 
 A visualization of Denver's neighborhoods and the Starbucks store locations.
@@ -38,6 +38,6 @@ _Statistical Neighborhood information from the [City of Denver Open Data Catalog
 _Census information from the [United States Census Bureau](https://www.census.gov/). Publicly available information._
 
 
-# Note !!!:
+# Note ❗❗❗
 
 This project is my participation in Data camp Competition called : "Where to open a new coffee shop?"
