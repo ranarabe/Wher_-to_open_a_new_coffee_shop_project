@@ -5,7 +5,9 @@ You are helping a client who owns coffee shops in Colorado. The company's coffee
 Provide your client a list of neighborhoods in Denver where they should consider expanding. Include:
 
 A visualization of Denver's neighborhoods and the Starbucks store locations.
+
 Find the neighborhoods with the highest proportion of people in the target demographic.
+
 Select the top three neighborhoods where your client should focus their search.
 
 ## 💾 The data
