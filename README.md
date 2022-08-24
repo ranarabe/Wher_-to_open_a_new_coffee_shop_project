@@ -45,4 +45,5 @@ _Census information from the [United States Census Bureau](https://www.census.go
 This project is my participation in Data camp Competition called : "Where to open a new coffee shop?".
 
 link of compation: https://app.datacamp.com/learn/competitions/denver-coffee-shop
+
 link of my  publication : https://app.datacamp.com/workspace/w/a6b7aab1-c9cf-4fbb-a244-ff8234db073b
